@@ -16,7 +16,7 @@ The goal was to create data-driven district profiles and identify distinct urban
 
 ##  Project Summary
 - Data was collected from public APIs and open datasets
-- SQL tables (`district_attributes`, `district_features`) were created in AWS and managed via DBeaver
+- SQL tables (`district_attributes`, `district_features`, `districts_labels`) were created in AWS and managed via DBeaver
 - Feature engineering included density-based normalization by district area and population
 - District labels were created through clustering and manual interpretation
 - Visualization was built in Tableau Public
