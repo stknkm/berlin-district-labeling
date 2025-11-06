@@ -1,8 +1,6 @@
 #  District Labeling — Initial Label & Category Definition
 
-**Parent Task:** Layered District Labeling — Define Labels & Build Rule Logic  
-**Epic:** EPIC 2 — Data Foundation & Frontend Context  
-**Branch:** `common_labels`  
+
 
 ---
 
