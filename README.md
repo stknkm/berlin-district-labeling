@@ -38,6 +38,8 @@ Labels reflect the most distinctive social, cultural, and infrastructural patter
 Detailed labeling logic is described in [labeling_documentation/README.md](labeling_documentation/README.md).
 
 ##  Tableau Dashboard
+**Dashboard Preview**
+![Dashboard Preview](tableau/dashboard_preview.png)
 The final visualization is available on [Tableau Public](https://public.tableau.com/app/profile/sotnichenko.serhii/viz/BerlinDistricts/BerlinDistrictLabelingProject).  
 It allows users to explore how each feature varies across Berlin’s districts and which labels best represent them.
 
