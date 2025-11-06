@@ -1,5 +1,5 @@
 # Tableau Visualization
-
+![Dashboard Preview](tableau/dashboard_preview.png)
 ### Overview
 Contains the final dashboard files, design notes, and export images for the **Berlin District Labeling Project**.
 
