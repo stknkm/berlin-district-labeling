@@ -1,13 +1,9 @@
 # Tableau Visualization
-![Dashboard Preview](tableau/dashboard_preview.png)
-### Overview
-Contains the final dashboard files, design notes, and export images for the **Berlin District Labeling Project**.
+![Dashboard Preview](dashboard_preview.png)
 
-### Key Dashboards
-| File | Description |
-|------|--------------|
-| `dashboard_preview.png` | Main dashboard screenshot. |
-| [Tableau Dashboard](https://public.tableau.com/app/profile/sotnichenko.serhii/viz/BerlinDistricts/BerlinDistrictLabelingProject) |Link to the Tableau Public| 
+### Interactive Tableau dashboard visualizing Berlin district labels and feature distributions. 
+
+ [View the live dashboard on Tableau Public](https://public.tableau.com/app/profile/sotnichenko.serhii/viz/BerlinDistricts/BerlinDistrictLabelingProject) 
 
 ### Dashboard Features
 - Interactive **Feature Selector** for exploring different metrics.
