@@ -12,7 +12,8 @@ The goal was to create data-driven district profiles and identify distinct urban
 - **Languages:** Python, SQL  
 - **Libraries:** pandas, geopandas, numpy, matplotlib  
 - **Visualization:** Tableau  
-- **Database:** PostgreSQL 
+- **Database:** PostgreSQL
+- **Version control:** GitHub
 
 ##  Project Summary
 - Data was collected from public APIs and open datasets
