@@ -44,4 +44,4 @@ The final visualization is available on [Tableau Public](https://public.tableau.
 It allows users to explore how each feature varies across Berlin’s districts and which labels best represent them.
 
 ##  Author
-Created by **Serhii Sotnichenko** as part of a data analytics internship project (2025).
+Created by **Serhii Sotnichenko** and **Yana Yelnikova** as part of a data analytics internship project (2025).
